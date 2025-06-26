@@ -1,0 +1,17 @@
+body {
+  background-color: #f4f4f4;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+}
+li {
+   background-color:orange;
+   color:white;
+}
+div {
+  background-color:red;
+  color: violet;
+}
