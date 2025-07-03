@@ -1,24 +1,28 @@
 html {
   font-size:8px;
 }
+.manufacturing-consent-regular {
+  font-family: "Manufacturing Consent", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
 
 body {
   background-color: #ffffff;
-  font-family: Arial, sans-serif;
   text-align: center;
   font-size:10px;
+  font-family:"Manufacturing consent",sans-serif;
 }
 
-h1 {
+ h1 {
   color: skyblue;
-  font-style:italic;
-  font-family:Arail;
+  /* font-style:italic; */
   font-size:32px;
-  font-weight:0.02;
-  line-height:1.9;
-  letter-spacing:0.5px;
+  font-weight:800px;
+  line-height:1.5;
+  letter-spacing:1px;
   
-}
+} 
 .ol {
   font-size:2em;
 }
@@ -31,7 +35,13 @@ li {
   background-color:lightblue;
   font-size:2rem;
   color:red;
+  /* font-style:oblique; */
 }
 article {
   font-size:2rem;
 }
+footer {
+  font-size:20px;
+}
+code {
+  font-size:25px;
