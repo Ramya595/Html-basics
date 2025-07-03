@@ -1,17 +1,37 @@
+html {
+  font-size:8px;
+}
+
 body {
-  background-color: #f4f4f4;
+  background-color: #ffffff;
   font-family: Arial, sans-serif;
   text-align: center;
+  font-size:10px;
 }
 
 h1 {
-  color: #333;
+  color: skyblue;
+  font-style:italic;
+  font-family:Arail;
+  font-size:32px;
+  font-weight:0.02;
+  line-height:1.9;
+  letter-spacing:0.5px;
+  
+}
+.ol {
+  font-size:2em;
 }
 li {
-   background-color:orange;
+   background-color:rgba(150,150,50,0.5);
+  
    color:white;
 }
-div {
-  background-color:red;
-  color: violet;
+.unorder_list {
+  background-color:lightblue;
+  font-size:2rem;
+  color:red;
+}
+article {
+  font-size:2rem;
 }

@@ -2,7 +2,8 @@
 
 #  HTML Basic ...
 
-```<!DOCTYPE html>
+``` 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,5 +13,21 @@
 <body>
     
 </body>
-</html>```
+</html> 
+```
+
+## Html shortcuts
+ 
+- ht + tab / enter  button -------> <html></html>
+- sp + tab / enter  button -------> <span></span>
+- h + tab / enter  button -------> <h1></h1>
+- he + tab / enter  button -------> <head></head>
+- bo + tab / enter  button -------> <body></body>
+
+- li*3 + tab / enter  button -------> <li></li>
+                                      <li></li>
+                                      <li></li>
+
+-                                       
+
 

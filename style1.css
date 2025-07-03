@@ -1,0 +1,27 @@
+.list {
+    color: blue;
+}
+
+#mo {
+    color:green;
+}
+
+.card {
+    color: purple;
+}
+#ke {
+  color: red;
+}
+.title {
+  color: blue;
+ 
+}
+.class {
+  color: orange;
+}
+#or {
+  color: #00FF00;
+}
+* {
+    padding: 0;
+}
