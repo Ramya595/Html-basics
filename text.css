@@ -1,0 +1,27 @@
+@import url(text1.css);
+@font-face {
+    font-family: "myfont";
+    src:url("fonts/myfont/.woff2") format("woff2");
+}
+input[type="text"] {
+    border:2px solid rgb(166, 96, 231)
+}
+.dark {
+    background-color: blue;
+    color: aliceblue;
+}
+.ellipsis {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  background-color: var(--primary-color);
+  padding: var(--padding);
+  color: rgb(150, 26, 26);
+}
+h1 {
+    font-size: min(50px,100px);
+}
+:root {
+    --primary-color:rgb(179, 239, 200);
+    --padding:1rem;
+}

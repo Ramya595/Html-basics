@@ -1,0 +1,22 @@
+body {
+    border:10px solid blue;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUH-oIAvcVSDEN54K4XFbmUAynW9xva-dQ0g&s);
+    background-size: 300px;
+    background-repeat: no-repeat;
+
+
+}
+div {
+    border:10px solid rgb(46, 189, 41);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    line-height: 25px;
+    font-size: large;
+    letter-spacing: 1px;
+    font-style: italic;
+    text-shadow: 2px 2px 2px rgb(245, 96, 94);
+    height: 200px;
+
+
+}

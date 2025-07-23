@@ -1,0 +1,53 @@
+:root {
+  --font-main: 'Inter', sans-serif;
+  --font-heading: 'Montserrat', sans-serif;
+}
+h5 {
+  font-family:var(--font-heading);
+}
+#ca {
+  color:red;
+}
+nav > ul {
+  background-color:rgb(245,150,167);
+}
+nav >ol {
+  background-color:rgb(132,123,245)
+}
+input[type="text"] {
+  border: 1px solid #f18dcb;
+}
+.cl {
+  background-color:#ff00b7;
+  color: #0d0d0c;
+  white-space:initial;
+}
+#in {
+  background-color: aquamarine;
+  color: blueviolet;
+}
+ul {
+  margin: 11;
+  padding:10;
+}
+html {
+  padding: 15px;
+  margin: 10px;
+}
+.center {
+  text-align: center;
+}
+h4 {
+  color: rgba(187, 91, 231, 0.9);
+  font-weight: {2,3};
+}
+* {
+  line-height: normal;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  letter-spacing: 1px;
+
+}
+nav {
+  line-height: 0ch;
+}

@@ -1,0 +1,17 @@
+.light {
+    background-color: aqua;
+    color: rgb(59, 2, 2);
+}
+
+@media (max-width:768px) {
+    body.light {
+        font-size: 14px;
+        background: red;
+    }
+
+    .nav {
+        flex-direction: column;
+    }
+}
+
+/*Prefferences for styles  application---- #id, .class, tagname */
