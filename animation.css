@@ -1,0 +1,24 @@
+button {
+    background-color: rgb(219, 248, 239);
+    color: rgb(135, 46, 46);
+    cursor: pointer;
+    transition: all .5s;
+    padding:6px 15px;
+
+}
+button:hover {
+    background-color: bisque;
+    border-radius: 8px;
+    margin-top: 4px;
+    margin-left: 4px;
+    animation: fade 1s;
+
+}
+@keyframes fade {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
